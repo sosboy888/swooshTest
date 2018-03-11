@@ -1,0 +1,2 @@
+Implicit intents:Ones that are used to call external apps
+Explicit intents:Ones that are used to call classes
